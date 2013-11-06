@@ -1,0 +1,32 @@
+{
+  "name": "livi18n",
+  "main": "dist/livi18n.min.js",
+  "version": "0.1.0",
+  "authors": [
+    "Christopher EnyTC <chris.enytc@gmail.com>"
+  ],
+  "description": "A JavaScript Library for Livi18n",
+  "keywords": [
+    "javascript",
+    "library",
+    "i18n",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chrisenytc/livi18n.js",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests",
+    "src/js",
+    ".travis.yml"
+  ],
+  "dependencies": {
+	  "jquery": "~1.10.2"
+  },
+  "devDependencies": {
+    "jasmine": "~1.3.1"
+  }
+}
