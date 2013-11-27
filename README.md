@@ -1,4 +1,4 @@
-# Livi18n.js [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/livi18n.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Livi18n.js [![BOWER version](https://badge-me.herokuapp.com/api/bower/chrisenytc/livi18n.js.png)](http://badges.enytc.com/for/bower/chrisenytc/livi18n.js) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/livi18n.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 A JavaScript Library for Livi18n
 
